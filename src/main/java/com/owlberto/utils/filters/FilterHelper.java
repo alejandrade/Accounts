@@ -53,6 +53,7 @@ public class FilterHelper {
 				Document doc = Document.parse(claim.toJson());
 				mc.getDatabase(OwlMongo.OWLBERTODB)
 				.getCollection(OwlMongo.accessLog).insertOne(doc);
+				mc.close();
 			}).start();
 			
 			
