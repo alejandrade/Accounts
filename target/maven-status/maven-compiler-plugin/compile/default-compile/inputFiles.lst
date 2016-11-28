@@ -1,3 +1,8 @@
-C:\Users\alejandro\workspace\Accounts\src\main\java\com\owlberto\utils\MyApplication.java
-C:\Users\alejandro\workspace\Accounts\src\main\java\com\owlberto\utils\GsonJerseyProvider.java
-C:\Users\alejandro\workspace\Accounts\src\main\java\com\owlberto\utils\ContainerFilter.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\utils\OwlMongo.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\utils\filters\ContainerFilter.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\utils\MyApplication.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\pojo\User.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\Accounts\constants\ServiceKeys.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\endpoint\UserController.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\utils\GsonJerseyProvider.java
+C:\Users\alejandro\Documents\git\Accounts\src\main\java\com\owlberto\utils\filters\FilterHelper.java

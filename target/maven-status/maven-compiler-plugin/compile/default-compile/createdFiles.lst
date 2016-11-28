@@ -1,0 +1,8 @@
+com\owlberto\endpoint\UserController.class
+com\owlberto\utils\MyApplication.class
+com\owlberto\Accounts\constants\ServiceKeys.class
+com\owlberto\utils\OwlMongo.class
+com\owlberto\utils\filters\FilterHelper.class
+com\owlberto\utils\GsonJerseyProvider.class
+com\owlberto\utils\filters\ContainerFilter.class
+com\owlberto\pojo\User.class
